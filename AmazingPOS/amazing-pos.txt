@@ -1,0 +1,327 @@
+
+
+Exception: ItemID: 3 is invalid or the handler was not given full item information from inventory
+Time of exception2023-05-22T12:29:17.269732500
+se.kth.iv1350.amazingpos.controller.ItemIDNotFoundException: ItemID: 3 is invalid or the handler was not given full item information from inventory
+	at se.kth.iv1350.amazingpos.controller.Controller.scanItem(Controller.java:68)
+	at se.kth.iv1350.amazingpos.view.View.systemCallSimulation(View.java:36)
+	at se.kth.iv1350.amazingpos.startup.Main.main(Main.java:17)
+
+
+Exception: ItemID: 5 is invalid or the handler was not given full item information from inventory
+Time of exception2023-05-22T12:29:17.271042600
+se.kth.iv1350.amazingpos.controller.ItemIDNotFoundException: ItemID: 5 is invalid or the handler was not given full item information from inventory
+	at se.kth.iv1350.amazingpos.controller.Controller.scanItem(Controller.java:68)
+	at se.kth.iv1350.amazingpos.view.View.systemCallSimulation(View.java:84)
+	at se.kth.iv1350.amazingpos.startup.Main.main(Main.java:17)
+
+
+Exception: Connecting to inventory was not possible when trying to scan itemID: 6
+Time of exception2023-05-22T12:29:17.271042600
+se.kth.iv1350.amazingpos.integration.InventoryConnectionErrorException: Connecting to inventory was not possible when trying to scan itemID: 6
+	at se.kth.iv1350.amazingpos.integration.InventoryHandler.getItemInfo(InventoryHandler.java:62)
+	at se.kth.iv1350.amazingpos.controller.Controller.scanItem(Controller.java:66)
+	at se.kth.iv1350.amazingpos.view.View.systemCallSimulation(View.java:96)
+	at se.kth.iv1350.amazingpos.startup.Main.main(Main.java:17)
+
+
+Exception: ItemID: 3 is invalid or the handler was not given full item information from inventory
+Time of exception 2023-05-22T12:29:48.071927800
+se.kth.iv1350.amazingpos.controller.ItemIDNotFoundException: ItemID: 3 is invalid or the handler was not given full item information from inventory
+	at se.kth.iv1350.amazingpos.controller.Controller.scanItem(Controller.java:68)
+	at se.kth.iv1350.amazingpos.view.View.systemCallSimulation(View.java:36)
+	at se.kth.iv1350.amazingpos.startup.Main.main(Main.java:17)
+
+
+Exception: ItemID: 5 is invalid or the handler was not given full item information from inventory
+Time of exception 2023-05-22T12:29:48.084903200
+se.kth.iv1350.amazingpos.controller.ItemIDNotFoundException: ItemID: 5 is invalid or the handler was not given full item information from inventory
+	at se.kth.iv1350.amazingpos.controller.Controller.scanItem(Controller.java:68)
+	at se.kth.iv1350.amazingpos.view.View.systemCallSimulation(View.java:84)
+	at se.kth.iv1350.amazingpos.startup.Main.main(Main.java:17)
+
+
+Exception: Connecting to inventory was not possible when trying to scan itemID: 6
+Time of exception 2023-05-22T12:29:48.085252500
+se.kth.iv1350.amazingpos.integration.InventoryConnectionErrorException: Connecting to inventory was not possible when trying to scan itemID: 6
+	at se.kth.iv1350.amazingpos.integration.InventoryHandler.getItemInfo(InventoryHandler.java:62)
+	at se.kth.iv1350.amazingpos.controller.Controller.scanItem(Controller.java:66)
+	at se.kth.iv1350.amazingpos.view.View.systemCallSimulation(View.java:96)
+	at se.kth.iv1350.amazingpos.startup.Main.main(Main.java:17)
+
+
+Exception: ItemID: 3 is invalid or the handler was not given full item information from inventory
+Time of exception 2023-05-22T14:08:19.793588600
+se.kth.iv1350.amazingpos.controller.ItemIDNotFoundException: ItemID: 3 is invalid or the handler was not given full item information from inventory
+	at se.kth.iv1350.amazingpos.controller.Controller.scanItem(Controller.java:68)
+	at se.kth.iv1350.amazingpos.view.View.systemCallSimulation(View.java:37)
+	at se.kth.iv1350.amazingpos.startup.Main.main(Main.java:17)
+
+
+Exception: ItemID: 5 is invalid or the handler was not given full item information from inventory
+Time of exception 2023-05-22T14:08:19.807595500
+se.kth.iv1350.amazingpos.controller.ItemIDNotFoundException: ItemID: 5 is invalid or the handler was not given full item information from inventory
+	at se.kth.iv1350.amazingpos.controller.Controller.scanItem(Controller.java:68)
+	at se.kth.iv1350.amazingpos.view.View.systemCallSimulation(View.java:85)
+	at se.kth.iv1350.amazingpos.startup.Main.main(Main.java:17)
+
+
+Exception: Connecting to inventory was not possible when trying to scan itemID: 6
+Time of exception 2023-05-22T14:08:19.807595500
+se.kth.iv1350.amazingpos.integration.InventoryConnectionErrorException: Connecting to inventory was not possible when trying to scan itemID: 6
+	at se.kth.iv1350.amazingpos.integration.InventoryHandler.getItemInfo(InventoryHandler.java:62)
+	at se.kth.iv1350.amazingpos.controller.Controller.scanItem(Controller.java:66)
+	at se.kth.iv1350.amazingpos.view.View.systemCallSimulation(View.java:97)
+	at se.kth.iv1350.amazingpos.startup.Main.main(Main.java:17)
+
+
+Exception: ItemID: 3 is invalid or the handler was not given full item information from inventory
+Time of exception 2023-05-22T14:10:01.901269100
+se.kth.iv1350.amazingpos.controller.ItemIDNotFoundException: ItemID: 3 is invalid or the handler was not given full item information from inventory
+	at se.kth.iv1350.amazingpos.controller.Controller.scanItem(Controller.java:68)
+	at se.kth.iv1350.amazingpos.view.View.systemCallSimulation(View.java:38)
+	at se.kth.iv1350.amazingpos.startup.Main.main(Main.java:17)
+
+
+Exception: ItemID: 5 is invalid or the handler was not given full item information from inventory
+Time of exception 2023-05-22T14:10:01.914485800
+se.kth.iv1350.amazingpos.controller.ItemIDNotFoundException: ItemID: 5 is invalid or the handler was not given full item information from inventory
+	at se.kth.iv1350.amazingpos.controller.Controller.scanItem(Controller.java:68)
+	at se.kth.iv1350.amazingpos.view.View.systemCallSimulation(View.java:86)
+	at se.kth.iv1350.amazingpos.startup.Main.main(Main.java:17)
+
+
+Exception: Connecting to inventory was not possible when trying to scan itemID: 6
+Time of exception 2023-05-22T14:10:01.914823500
+se.kth.iv1350.amazingpos.integration.InventoryConnectionErrorException: Connecting to inventory was not possible when trying to scan itemID: 6
+	at se.kth.iv1350.amazingpos.integration.InventoryHandler.getItemInfo(InventoryHandler.java:62)
+	at se.kth.iv1350.amazingpos.controller.Controller.scanItem(Controller.java:66)
+	at se.kth.iv1350.amazingpos.view.View.systemCallSimulation(View.java:98)
+	at se.kth.iv1350.amazingpos.startup.Main.main(Main.java:17)
+
+
+Exception: ItemID: 3 is invalid or the handler was not given full item information from inventory
+Time of exception 2023-05-22T14:36:48.138708
+se.kth.iv1350.amazingpos.controller.ItemIDNotFoundException: ItemID: 3 is invalid or the handler was not given full item information from inventory
+	at se.kth.iv1350.amazingpos.controller.Controller.scanItem(Controller.java:76)
+	at se.kth.iv1350.amazingpos.view.View.systemCallSimulation(View.java:39)
+	at se.kth.iv1350.amazingpos.startup.Main.main(Main.java:17)
+
+
+Exception: ItemID: 5 is invalid or the handler was not given full item information from inventory
+Time of exception 2023-05-22T14:36:48.158634200
+se.kth.iv1350.amazingpos.controller.ItemIDNotFoundException: ItemID: 5 is invalid or the handler was not given full item information from inventory
+	at se.kth.iv1350.amazingpos.controller.Controller.scanItem(Controller.java:76)
+	at se.kth.iv1350.amazingpos.view.View.systemCallSimulation(View.java:87)
+	at se.kth.iv1350.amazingpos.startup.Main.main(Main.java:17)
+
+
+Exception: Connecting to inventory was not possible when trying to scan itemID: 6
+Time of exception 2023-05-22T14:36:48.159047700
+se.kth.iv1350.amazingpos.integration.InventoryConnectionErrorException: Connecting to inventory was not possible when trying to scan itemID: 6
+	at se.kth.iv1350.amazingpos.integration.InventoryHandler.getItemInfo(InventoryHandler.java:62)
+	at se.kth.iv1350.amazingpos.controller.Controller.scanItem(Controller.java:74)
+	at se.kth.iv1350.amazingpos.view.View.systemCallSimulation(View.java:99)
+	at se.kth.iv1350.amazingpos.startup.Main.main(Main.java:17)
+
+
+Exception: ItemID: 3 is invalid or the handler was not given full item information from inventory
+Time of exception 2023-05-22T14:53:38.210948400
+se.kth.iv1350.amazingpos.controller.ItemIDNotFoundException: ItemID: 3 is invalid or the handler was not given full item information from inventory
+	at se.kth.iv1350.amazingpos.controller.Controller.scanItem(Controller.java:78)
+	at se.kth.iv1350.amazingpos.view.View.systemCallSimulation(View.java:39)
+	at se.kth.iv1350.amazingpos.startup.Main.main(Main.java:17)
+
+
+Exception: ItemID: 5 is invalid or the handler was not given full item information from inventory
+Time of exception 2023-05-22T14:53:38.222471300
+se.kth.iv1350.amazingpos.controller.ItemIDNotFoundException: ItemID: 5 is invalid or the handler was not given full item information from inventory
+	at se.kth.iv1350.amazingpos.controller.Controller.scanItem(Controller.java:78)
+	at se.kth.iv1350.amazingpos.view.View.systemCallSimulation(View.java:87)
+	at se.kth.iv1350.amazingpos.startup.Main.main(Main.java:17)
+
+
+Exception: Connecting to inventory was not possible when trying to scan itemID: 6
+Time of exception 2023-05-22T14:53:38.222471300
+se.kth.iv1350.amazingpos.integration.InventoryConnectionErrorException: Connecting to inventory was not possible when trying to scan itemID: 6
+	at se.kth.iv1350.amazingpos.integration.InventoryHandler.getItemInfo(InventoryHandler.java:62)
+	at se.kth.iv1350.amazingpos.controller.Controller.scanItem(Controller.java:76)
+	at se.kth.iv1350.amazingpos.view.View.systemCallSimulation(View.java:99)
+	at se.kth.iv1350.amazingpos.startup.Main.main(Main.java:17)
+
+
+Exception: ItemID: 3 is invalid or the handler was not given full item information from inventory
+Time of exception 2023-05-22T14:56:07.753116200
+se.kth.iv1350.amazingpos.controller.ItemIDNotFoundException: ItemID: 3 is invalid or the handler was not given full item information from inventory
+	at se.kth.iv1350.amazingpos.controller.Controller.scanItem(Controller.java:78)
+	at se.kth.iv1350.amazingpos.view.View.systemCallSimulation(View.java:39)
+	at se.kth.iv1350.amazingpos.startup.Main.main(Main.java:17)
+
+
+Exception: ItemID: 5 is invalid or the handler was not given full item information from inventory
+Time of exception 2023-05-22T14:56:07.765777200
+se.kth.iv1350.amazingpos.controller.ItemIDNotFoundException: ItemID: 5 is invalid or the handler was not given full item information from inventory
+	at se.kth.iv1350.amazingpos.controller.Controller.scanItem(Controller.java:78)
+	at se.kth.iv1350.amazingpos.view.View.systemCallSimulation(View.java:87)
+	at se.kth.iv1350.amazingpos.startup.Main.main(Main.java:17)
+
+
+Exception: Connecting to inventory was not possible when trying to scan itemID: 6
+Time of exception 2023-05-22T14:56:07.766345
+se.kth.iv1350.amazingpos.integration.InventoryConnectionErrorException: Connecting to inventory was not possible when trying to scan itemID: 6
+	at se.kth.iv1350.amazingpos.integration.InventoryHandler.getItemInfo(InventoryHandler.java:62)
+	at se.kth.iv1350.amazingpos.controller.Controller.scanItem(Controller.java:76)
+	at se.kth.iv1350.amazingpos.view.View.systemCallSimulation(View.java:99)
+	at se.kth.iv1350.amazingpos.startup.Main.main(Main.java:17)
+
+
+Exception: ItemID: 3 is invalid or the handler was not given full item information from inventory
+Time of exception 2023-05-22T16:07:56.748100300
+se.kth.iv1350.amazingpos.controller.ItemIDNotFoundException: ItemID: 3 is invalid or the handler was not given full item information from inventory
+	at se.kth.iv1350.amazingpos.controller.Controller.scanItem(Controller.java:78)
+	at se.kth.iv1350.amazingpos.view.View.systemCallSimulation(View.java:40)
+	at se.kth.iv1350.amazingpos.startup.Main.main(Main.java:17)
+
+
+Exception: ItemID: 5 is invalid or the handler was not given full item information from inventory
+Time of exception 2023-05-22T16:07:56.761503100
+se.kth.iv1350.amazingpos.controller.ItemIDNotFoundException: ItemID: 5 is invalid or the handler was not given full item information from inventory
+	at se.kth.iv1350.amazingpos.controller.Controller.scanItem(Controller.java:78)
+	at se.kth.iv1350.amazingpos.view.View.systemCallSimulation(View.java:88)
+	at se.kth.iv1350.amazingpos.startup.Main.main(Main.java:17)
+
+
+Exception: Connecting to inventory was not possible when trying to scan itemID: 6
+Time of exception 2023-05-22T16:07:56.761764900
+se.kth.iv1350.amazingpos.integration.InventoryConnectionErrorException: Connecting to inventory was not possible when trying to scan itemID: 6
+	at se.kth.iv1350.amazingpos.integration.InventoryHandler.getItemInfo(InventoryHandler.java:62)
+	at se.kth.iv1350.amazingpos.controller.Controller.scanItem(Controller.java:76)
+	at se.kth.iv1350.amazingpos.view.View.systemCallSimulation(View.java:100)
+	at se.kth.iv1350.amazingpos.startup.Main.main(Main.java:17)
+
+
+Exception: ItemID: 3 is invalid or the handler was not given full item information from inventory
+Time of exception 2023-05-22T16:08:48.625121
+se.kth.iv1350.amazingpos.controller.ItemIDNotFoundException: ItemID: 3 is invalid or the handler was not given full item information from inventory
+	at se.kth.iv1350.amazingpos.controller.Controller.scanItem(Controller.java:78)
+	at se.kth.iv1350.amazingpos.view.View.systemCallSimulation(View.java:40)
+	at se.kth.iv1350.amazingpos.startup.Main.main(Main.java:17)
+
+
+Exception: ItemID: 5 is invalid or the handler was not given full item information from inventory
+Time of exception 2023-05-22T16:08:48.637240
+se.kth.iv1350.amazingpos.controller.ItemIDNotFoundException: ItemID: 5 is invalid or the handler was not given full item information from inventory
+	at se.kth.iv1350.amazingpos.controller.Controller.scanItem(Controller.java:78)
+	at se.kth.iv1350.amazingpos.view.View.systemCallSimulation(View.java:88)
+	at se.kth.iv1350.amazingpos.startup.Main.main(Main.java:17)
+
+
+Exception: Connecting to inventory was not possible when trying to scan itemID: 6
+Time of exception 2023-05-22T16:08:48.637680500
+se.kth.iv1350.amazingpos.integration.InventoryConnectionErrorException: Connecting to inventory was not possible when trying to scan itemID: 6
+	at se.kth.iv1350.amazingpos.integration.InventoryHandler.getItemInfo(InventoryHandler.java:62)
+	at se.kth.iv1350.amazingpos.controller.Controller.scanItem(Controller.java:76)
+	at se.kth.iv1350.amazingpos.view.View.systemCallSimulation(View.java:100)
+	at se.kth.iv1350.amazingpos.startup.Main.main(Main.java:17)
+
+
+Exception: ItemID: 3 is invalid or the handler was not given full item information from inventory
+Time of exception 2023-05-22T17:03:19.497842600
+se.kth.iv1350.amazingpos.controller.ItemIDNotFoundException: ItemID: 3 is invalid or the handler was not given full item information from inventory
+	at se.kth.iv1350.amazingpos.controller.Controller.scanItem(Controller.java:79)
+	at se.kth.iv1350.amazingpos.view.View.systemCallSimulation(View.java:46)
+	at se.kth.iv1350.amazingpos.startup.Main.main(Main.java:17)
+
+
+Exception: ItemID: 5 is invalid or the handler was not given full item information from inventory
+Time of exception 2023-05-22T17:03:19.509970
+se.kth.iv1350.amazingpos.controller.ItemIDNotFoundException: ItemID: 5 is invalid or the handler was not given full item information from inventory
+	at se.kth.iv1350.amazingpos.controller.Controller.scanItem(Controller.java:79)
+	at se.kth.iv1350.amazingpos.view.View.systemCallSimulation(View.java:94)
+	at se.kth.iv1350.amazingpos.startup.Main.main(Main.java:17)
+
+
+Exception: Connecting to inventory was not possible when trying to scan itemID: 6
+Time of exception 2023-05-22T17:03:19.509970
+se.kth.iv1350.amazingpos.integration.InventoryConnectionErrorException: Connecting to inventory was not possible when trying to scan itemID: 6
+	at se.kth.iv1350.amazingpos.integration.InventoryHandler.getItemInfo(InventoryHandler.java:62)
+	at se.kth.iv1350.amazingpos.controller.Controller.scanItem(Controller.java:77)
+	at se.kth.iv1350.amazingpos.view.View.systemCallSimulation(View.java:106)
+	at se.kth.iv1350.amazingpos.startup.Main.main(Main.java:17)
+
+
+Exception: ItemID: 3 is invalid or the handler was not given full item information from inventory
+Time of exception 2023-05-22T17:04:34.870313300
+se.kth.iv1350.amazingpos.controller.ItemIDNotFoundException: ItemID: 3 is invalid or the handler was not given full item information from inventory
+	at se.kth.iv1350.amazingpos.controller.Controller.scanItem(Controller.java:79)
+	at se.kth.iv1350.amazingpos.view.View.systemCallSimulation(View.java:46)
+	at se.kth.iv1350.amazingpos.startup.Main.main(Main.java:17)
+
+
+Exception: ItemID: 5 is invalid or the handler was not given full item information from inventory
+Time of exception 2023-05-22T17:04:34.884064700
+se.kth.iv1350.amazingpos.controller.ItemIDNotFoundException: ItemID: 5 is invalid or the handler was not given full item information from inventory
+	at se.kth.iv1350.amazingpos.controller.Controller.scanItem(Controller.java:79)
+	at se.kth.iv1350.amazingpos.view.View.systemCallSimulation(View.java:94)
+	at se.kth.iv1350.amazingpos.startup.Main.main(Main.java:17)
+
+
+Exception: Connecting to inventory was not possible when trying to scan itemID: 6
+Time of exception 2023-05-22T17:04:34.884064700
+se.kth.iv1350.amazingpos.integration.InventoryConnectionErrorException: Connecting to inventory was not possible when trying to scan itemID: 6
+	at se.kth.iv1350.amazingpos.integration.InventoryHandler.getItemInfo(InventoryHandler.java:62)
+	at se.kth.iv1350.amazingpos.controller.Controller.scanItem(Controller.java:77)
+	at se.kth.iv1350.amazingpos.view.View.systemCallSimulation(View.java:106)
+	at se.kth.iv1350.amazingpos.startup.Main.main(Main.java:17)
+
+
+Exception: ItemID: 3 is invalid or the handler was not given full item information from inventory
+Time of exception 2023-05-22T17:07:08.704800900
+se.kth.iv1350.amazingpos.controller.ItemIDNotFoundException: ItemID: 3 is invalid or the handler was not given full item information from inventory
+	at se.kth.iv1350.amazingpos.controller.Controller.scanItem(Controller.java:79)
+	at se.kth.iv1350.amazingpos.view.View.systemCallSimulation(View.java:46)
+	at se.kth.iv1350.amazingpos.startup.Main.main(Main.java:17)
+
+
+Exception: ItemID: 5 is invalid or the handler was not given full item information from inventory
+Time of exception 2023-05-22T17:07:08.727521100
+se.kth.iv1350.amazingpos.controller.ItemIDNotFoundException: ItemID: 5 is invalid or the handler was not given full item information from inventory
+	at se.kth.iv1350.amazingpos.controller.Controller.scanItem(Controller.java:79)
+	at se.kth.iv1350.amazingpos.view.View.systemCallSimulation(View.java:94)
+	at se.kth.iv1350.amazingpos.startup.Main.main(Main.java:17)
+
+
+Exception: Connecting to inventory was not possible when trying to scan itemID: 6
+Time of exception 2023-05-22T17:07:08.727863500
+se.kth.iv1350.amazingpos.integration.InventoryConnectionErrorException: Connecting to inventory was not possible when trying to scan itemID: 6
+	at se.kth.iv1350.amazingpos.integration.InventoryHandler.getItemInfo(InventoryHandler.java:62)
+	at se.kth.iv1350.amazingpos.controller.Controller.scanItem(Controller.java:77)
+	at se.kth.iv1350.amazingpos.view.View.systemCallSimulation(View.java:106)
+	at se.kth.iv1350.amazingpos.startup.Main.main(Main.java:17)
+
+
+Exception: ItemID: 3 is invalid or the handler was not given full item information from inventory
+Time of exception 2023-05-22T17:18:24.107432600
+se.kth.iv1350.amazingpos.controller.ItemIDNotFoundException: ItemID: 3 is invalid or the handler was not given full item information from inventory
+	at se.kth.iv1350.amazingpos.controller.Controller.scanItem(Controller.java:79)
+	at se.kth.iv1350.amazingpos.view.View.systemCallSimulation(View.java:46)
+	at se.kth.iv1350.amazingpos.startup.Main.main(Main.java:17)
+
+
+Exception: ItemID: 5 is invalid or the handler was not given full item information from inventory
+Time of exception 2023-05-22T17:18:24.120434
+se.kth.iv1350.amazingpos.controller.ItemIDNotFoundException: ItemID: 5 is invalid or the handler was not given full item information from inventory
+	at se.kth.iv1350.amazingpos.controller.Controller.scanItem(Controller.java:79)
+	at se.kth.iv1350.amazingpos.view.View.systemCallSimulation(View.java:94)
+	at se.kth.iv1350.amazingpos.startup.Main.main(Main.java:17)
+
+
+Exception: Connecting to inventory was not possible when trying to scan itemID: 6
+Time of exception 2023-05-22T17:18:24.121437400
+se.kth.iv1350.amazingpos.integration.InventoryConnectionErrorException: Connecting to inventory was not possible when trying to scan itemID: 6
+	at se.kth.iv1350.amazingpos.integration.InventoryHandler.getItemInfo(InventoryHandler.java:62)
+	at se.kth.iv1350.amazingpos.controller.Controller.scanItem(Controller.java:77)
+	at se.kth.iv1350.amazingpos.view.View.systemCallSimulation(View.java:106)
+	at se.kth.iv1350.amazingpos.startup.Main.main(Main.java:17)
+
+
